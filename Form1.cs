@@ -26,7 +26,7 @@ namespace Bankomat
 
         bool trybUzytkownika = false;
 
-        private int[] indexBanknot = new int[6]; //index - od 0 do 5
+        private int[] indexBanknot = new int[6]; //index od 0 do 5
 
         private int[] banknoty = { 500, 200, 100, 50, 20, 10 };
 
